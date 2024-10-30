@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Online CV Presentation Website</title>
-</head>
-<body>
-  <h1>Online CV Presentation Website</h1>
+<h1>Online CV Presentation Website</h1>
 
   <p>
     This project was part of an assignment for a module on web development basics during my first year of study in Software Engineering at Wintec.
@@ -43,6 +35,4 @@
     This project served as a stepping stone in my journey toward more advanced web development. I learned key concepts in structuring web content, 
     using CSS to improve visual presentation, and building a professional online presence.
   </p>
-</body>
-</html>
 
